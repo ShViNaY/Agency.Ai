@@ -1,8 +1,6 @@
-// Modern Agency Website is a responsive web platform designed for digital agencies to showcase their services, highlight work, and capture leads through a built-in contact form so businesses can attract clients and collect inquiries efficiently.
-// Optional addition (if asked about your role):
-// You focused on designing the user experience and implementing core features like animated sections and the contact submission workflow.
 
-// GreatStack - yt link - https://youtu.be/sbMHR9K60NY?list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj
+
+
 
 
 
