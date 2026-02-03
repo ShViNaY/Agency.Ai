@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Manrope:wght@200..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    cursor: none;
+}
+@theme{
+    --color-primary: #5044e5;
+}
